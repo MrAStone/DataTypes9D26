@@ -42,6 +42,15 @@
             Console.Write("Enter your age: ");
             int age = Convert.ToInt32(Console.ReadLine());
 
+            Console.Write("Enter your age: ");
+            double decAge = Convert.ToDouble(Console.ReadLine());
+
+            Console.Write("Is it raining (true/false): ");
+            bool rain = Convert.ToBoolean(Console.ReadLine());
+
+            Console.Write("What is the symbol for email address: ");
+            char email = Convert.ToChar(Console.ReadLine());
+
 
 
         }
