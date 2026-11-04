@@ -34,7 +34,7 @@
             myString = "";
 
             Console.WriteLine();
-;            // User Input
+            // User Input
             Console.Write("Enter your name: ");
             string myName = Console.ReadLine();
             Console.WriteLine(myName);
