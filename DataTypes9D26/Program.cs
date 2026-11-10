@@ -51,6 +51,9 @@
             Console.Write("What is the symbol for email address: ");
             char email = Convert.ToChar(Console.ReadLine());
 
+            // Constant
+            const int numSquares = 64; // constant data type identifier = value
+
 
 
         }
